@@ -11,6 +11,7 @@ Question asked: "{{QUESTION}}"
 Collection method: {{COLLECTION_METHOD}}
 Date collected: {{DATE}}
 Total responses: {{N}}
+Responses withheld at Gate 1: [count, including 0]
 Role attribution: [agreed in advance / merged below {{MIN_GROUP_SIZE}} / not used]
 
 ## Responses
