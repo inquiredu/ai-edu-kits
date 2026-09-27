@@ -10,7 +10,7 @@ Any group smaller than `{{MIN_CELL}}` — a role at a building, a department —
 
 ## The arithmetic rule
 Language models are unreliable at counting, summing, and percentages, especially across dozens of rows. So:
-- **Any tool:** a person computes the summary table in a spreadsheet using the formulas in `02-inputs-template.md`. The AI roles interpret the table; they do not compute from raw rows. If a role needs a number that isn't in the table, it asks for it.
+- **Any tool:** a person computes the summary table in a spreadsheet, or reviews a table computed by deterministic application code, using the definitions and formulas in `02-inputs-template.md`. The AI roles interpret the table; they do not compute from raw rows. If a role needs a number that isn't in the table, it asks for it.
 - **Claude Code:** the analyst and auditor compute with code from the de-identified export and show the code.
 
 ## What the data can and can't show
