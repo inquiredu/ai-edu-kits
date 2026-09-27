@@ -6,7 +6,7 @@ Standards verbatim from the official source, with source and year? Scale, tools,
 
 ## Gate 2 — Approve, revise, or cut
 **Owners:** `{{CURRICULUM_LEAD}}` and at least one teacher of the subject.
-Read the reviewer's flags first. For each moment: approve, revise (with notes back to the mapper), or cut. "No AI moment" recommendations deserve the same attention — agreeing that a standard stays AI-free is a curriculum decision worth recording.
+Read the reviewer's flags first. For each moment: approve, revise (record the revised approval and notes for the Moment writer; optionally re-run the Mapper before approving), or cut. "No AI moment" recommendations deserve the same attention — agreeing that a standard stays AI-free is a curriculum decision worth recording.
 
 ## Gate 3 — Pilot before scaling
 **Owners:** `{{PILOT_GROUP}}`.
