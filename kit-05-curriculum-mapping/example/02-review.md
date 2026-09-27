@@ -25,3 +25,13 @@ Both moments started from what the tool can produce rather than from the standar
 ## D. Questions for the curriculum lead
 - For RL.7.1, is Level 1 feedback after independent citation worth the class time, or should this standard stay AI-free at grade 7?
 - The revised RI.7.8 moment asks teachers to prepare a flawed AI-generated text. Should a shared bank of these be built once, rather than by each teacher?
+
+## Planted-error scoring key
+
+This table names the three deliberate errors. The lens-by-lens review above includes additional observations; those are not extra planted errors.
+
+| # | Code | Lens | Severity | As written | Smallest fix |
+|---|---|---|---|---|---|
+| 1 | RL.7.1 | 2 | HIGH | AI finds the textual evidence students must cite | Students find and cite evidence first |
+| 2 | RI.7.8 | 6 | HIGH | Students create a deepfake of a public figure | Analyze a teacher-prepared, labeled artifact without real people |
+| 3 | RL.7.1 | 9 | MEDIUM | Increases engagement and deepens comprehension | Remove the effect claim or turn it into a research question |
