@@ -2,7 +2,7 @@
 
 ## Gate 1 — Prepare the data
 **Owner:** whoever holds the export.
-Emails replaced with IDs and the key kept offline? Conversation content removed? Groups under `{{MIN_CELL}}` merged? `{{ELIGIBLE_N}}` from the roster? For runs outside Claude Code, summary table computed in a spreadsheet?
+Emails replaced with IDs and the key kept offline? Conversation content removed? Groups under `{{MIN_CELL}}` merged? `{{ELIGIBLE_N}}` from the roster? Summary table computed from these rows in a spreadsheet or deterministic application code, and shown for review?
 
 ## Gate 2 — Does it match the buildings?
 **Owner:** the person running the read, plus one building leader.
