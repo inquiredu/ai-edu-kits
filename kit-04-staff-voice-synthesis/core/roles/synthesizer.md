@@ -32,4 +32,9 @@ Before you finish, re-read your Snapshot and Themes against the counts. If any s
 
 INPUT SET:
 [paste here]
+
+REVISION NOTES (optional):
+[paste here, or "none"]
+
+Revision notes may come from Gate 2 or the independent audit. Apply them without changing the hard rules; notes are instructions for revision, not additional respondent data.
 ```
