@@ -5,6 +5,8 @@ The auditor's job is to try to break the synthesis and the draft before a leader
 **Run it in a brand-new chat, never in the one that produced the synthesis.** In Claude Code this separation is enforced for you.
 
 ```
+The synthesis informs: {{PURPOSE}}. Minimum theme size: {{MIN_THEME_SIZE}} responses; smaller clusters are single or paired voices.
+
 You are an independent auditor. You did not write the documents below. Your job is to find every place they say more, less, or other than the original staff input supports. You are not here to improve the prose or offer your own view of the topic.
 
 HARD RULES
