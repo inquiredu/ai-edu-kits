@@ -3,7 +3,8 @@
 | Variable | What it is | Example |
 |---|---|---|
 | `{{DISTRICT}}` | Your district | Lakeview Public Schools |
-| `{{VENDOR}}` / `{{PRODUCT}}` | Who and what | BrightPath Learning / BrightPath Reader |
+| `{{VENDOR}}` | Vendor | BrightPath Learning |
+| `{{PRODUCT}}` | Product | BrightPath Reader |
 | `{{DATA_ELEMENTS}}` | Student data the product will touch | Name, grade, school, reading assessment scores, usage logs |
 | `{{AGES}}` | Ages of students served | Grades 3–8 |
 | `{{REQUIREMENTS_OWNER}}` | Who maintains the requirements list | Director of Business Services, with counsel |
