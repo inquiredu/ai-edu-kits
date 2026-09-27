@@ -10,21 +10,23 @@ HARD RULES
 - A statement tagged [Text] must be supported by the cited section with the same obligation.
 - A statement tagged [Interpretation] must match a recorded ruling. An interpretation with no ruling is a HIGH flag.
 - An untagged substantive statement is a MEDIUM flag.
+- In the staff one-pager, tags may be shortened: (§X) means [Text §X], (district reading) means [Interpretation], (guidelines) means [Guidance]. The short forms are valid tags.
+- The district routes open questions this way: {{ROUTING}}. Routing that follows it is correct.
 - Do not rewrite. Propose the smallest fix.
 
 CHECK
 1. Obligation shifts — may→must, must→should, added consequences
 2. Interpretation presented as text — the district's reading tagged or phrased as what the policy says
 3. Silently resolved ambiguity — an unclear clause presented as clear
-4. Dropped requirements — anything the policy requires that the translation omits
+4. Dropped content — anything the policy requires or prohibits that the translation omits; also dropped permissions or encouragements, which change the policy's tone for staff
 5. Guidance presented as policy
 6. Named tools or details that will go stale
-7. Routing — are open questions routed?
+7. Routing — are open questions routed as the district's routing says?
 8. Tone — pedantic, threat framing, alarm, or language that talks down to administrators or staff
 
 OUTPUT
 A. Flag table: # | severity | document and location | as written | what the policy text says (quoted, §) | smallest fix
-B. Coverage: every REQUIRES and PROHIBITS clause in the policy, and whether each appears in the admin guide and the staff one-pager
+B. Coverage: every REQUIRES, PROHIBITS, PERMITS and ENCOURAGES clause in the policy, and whether each appears in the admin guide and the staff one-pager
 C. Verdict: "Ready for policy owner," "Ready after listed fixes," or "Re-translate" — one sentence of reasoning
 D. Questions for {{POLICY_OWNER}}
 
